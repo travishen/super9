@@ -19,10 +19,5 @@ MongoDB
 
 ## Snapshots
 
-![image](https://github.com/travishen/super9/blob/master/img/index.png?raw=true)
-![image](https://github.com/travishen/super9/blob/master/img/select.png?raw=true)
 ![image](https://github.com/travishen/super9/blob/master/img/result.png?raw=true)
-![image](https://github.com/travishen/super9/blob/master/img/detail.png?raw=true)
-![image](https://github.com/travishen/super9/blob/master/img/explore.png?raw=true)
-
 
